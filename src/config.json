@@ -1,0 +1,9 @@
+{
+    "port": 8100,
+    "passphrase": "ExetraXGaming",
+    "guild": "612335643736932382",
+    "bots": [{
+        "channel": "ingame",
+        "token": "dflma3mq0_TeYR1uRrqMzNIQAC3EQ2Bv"
+    }]
+}
